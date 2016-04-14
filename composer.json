@@ -1,0 +1,12 @@
+{
+    "name": "twodigital/custom-pricing",
+    "description": "Plugin que permite preços customizados por cliente por produto.",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Diego de Biagi",
+            "email": "diego.biagi@twodigital.com.br"
+        }
+    ],
+    "require": {}
+}
