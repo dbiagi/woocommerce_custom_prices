@@ -7,3 +7,4 @@ Tem integração com a API do woocommerce para adicionar ou remover preços cust
 ## ToDo
 
 * Fazer documentação da API
+* Fazer interface gráfica para inserir preços customizados pela interface. (Hoje só é possível inserir preços pela API).
