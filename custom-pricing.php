@@ -1,7 +1,7 @@
 <?php
 /*
   Plugin Name: Custom Pricing
-  Plugin URI:
+  Plugin URI: https://github.com/dbiagi/woocommerce_custom_prices
   Description: Preços customizados por cliente por produto.
   Version: 1.0.0
   Author: Diego de Biagi <diego.biagi@twodigital.com.br>
