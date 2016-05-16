@@ -1,10 +1,11 @@
-# custom-pricing
+# woocommerce-custom-pricing
 
-Plugin do wordpress para woocommerce usado para habilitar preços customizados por cliente.
+## en_US
+Wordpress plugin to set custom prices for costumers using woocommerce rest api.
 
-Tem integração com a API do woocommerce para adicionar ou remover preços customizados.
+## pt_BR
+Plugin do wordpress para woocommerce usado para habilitar preços customizados por cliente usando a api rest do woocommerce.
 
 ## ToDo
-
-* Fazer documentação da API
-* Fazer interface gráfica para inserir preços customizados pela interface. (Hoje só é possível inserir preços pela API).
+* Document the api.
+* Build graphic interface do edit in the admin panel.
