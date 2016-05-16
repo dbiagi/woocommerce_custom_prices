@@ -1,19 +1,15 @@
 <?php
-
 /*
   Plugin Name: Custom Pricing
   Plugin URI:
   Description: Preços customizados por cliente por produto.
   Version: 1.0.0
   Author: Diego de Biagi <diego.biagi@twodigital.com.br>
-  Author URI:
+  Author URI: https://github.com/dbiagi
   License: GPLv2
  */
 
-/* @var $loader \Composer\Autoload\ClassLoader */
-global $loader;
-
-$loader->addPsr4('TWODigital\\CustomPricing\\', dirname(__FILE__) . '/src');
+require_once __DIR__ . '/vendor/autoload.php';
 
 add_action('init', function(){
     new \TWODigital\CustomPricing\Plugin\CustomPricingPlugin();

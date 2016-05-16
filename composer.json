@@ -8,5 +8,12 @@
             "email": "diego.biagi@twodigital.com.br"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "TWODigital\\CustomPricing\\": "src/"
+        }
+    }
 }

@@ -19,7 +19,7 @@ class CustomPricingResource extends WC_API_Resource {
      */
     protected $base = '/custom-pricing';
 
-    /**
+    /** 
      * @var wpdb
      */
     private $wpdb;
